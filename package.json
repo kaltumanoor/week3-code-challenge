@@ -1,0 +1,25 @@
+{
+  "name": "week3-code-challenge",
+  "version": "1.0.0",
+  "description": "week3-code-challenge",
+  "main": "node index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaltumanoor/week3-code-challenge.git"
+  },
+  "keywords": [
+    "index.html",
+    "index.css",
+    "index.js",
+    "bootstrap.css"
+  ],
+  "author": "Kaltuma Noor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaltumanoor/week3-code-challenge/issues"
+  },
+  "homepage": "https://github.com/kaltumanoor/week3-code-challenge#readme"
+}
