@@ -40,7 +40,9 @@ There is a buy tickets button available where the user presses to buy tickets.
 If tickets are equal to 0 a "No tickets available " message is displayed.
 
 # Deployed link
+you can view the site in this link 
 
+                https://kaltumanoor.github.io/week3-code-challenge/
 
 
 ## AUTHOR.
