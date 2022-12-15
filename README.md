@@ -27,7 +27,7 @@ Download the Json server on your machine if you do not have it.
 
 Open the terminal and run the command while in the cloned directory;
 
-        json-server --watch db.json
+                npx json-server --watch db.json
 
 Open the html file in the browser of you choice.
 
@@ -38,6 +38,10 @@ To view a movie's details the user clicks on the movie's name.
 There is a buy tickets button available where the user presses to buy tickets.
 
 If tickets are equal to 0 a "No tickets available " message is displayed.
+
+# Deployed link
+
+
 
 ## AUTHOR.
 This project was done by: Kaltuma Noor
